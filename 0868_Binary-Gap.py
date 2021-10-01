@@ -21,5 +21,7 @@ def maxDist(n):
 		setBit = setBit << 1
 	return max0 + 1
 
+
+
 n = int(input())
 print(maxDist(n)) 
